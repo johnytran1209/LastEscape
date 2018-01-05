@@ -1,0 +1,175 @@
+FPS
+Apocalypse
+
+3d Models:
+
+		GUNS:
+			9mm Pistol 
+			Revolver
+			rifle m4
+			rifle AK
+			shotgun
+		Ammo:
+			L Pistol Ammo
+			H Pistol Ammo
+			L Rifle Ammo
+			H Rifle Ammo
+			Shotgun Ammo
+			
+		CQB weapons:
+			Knife
+			Machete
+			baseball bat
+			
+		Utility:
+			S Medical kit
+			M Medical kit
+			L Medical kit
+			Repair kit
+			chain cutter
+			
+			Optional Cleaning kit 
+			Optional Rag
+			Optional gasoline
+			Optional Nails
+		
+		Food item Optional:
+			Optional MREs
+			Optional Meat
+			Optional Bread
+		
+		Throwable diversion:
+			Bottle
+			Soft drink can
+			Brick
+			
+		Building + Envi:
+			Building:
+				House blocks UK US style
+				warehouse
+				farm houses
+				ruined house
+				ruined block
+				
+			Environment crops
+				road block
+				light poll
+				trash bin
+				Industrial Bin
+				Steal pillar
+				Concrete pipe
+				Wooden box
+				Movable
+				road cone
+				road fences
+				barrel
+				explosive barrel
+				military crates
+			
+			vehicle:
+				car
+				Truck
+				4wd SUV
+				buses
+				ruined car
+			
+		Humanoid:
+			player:
+				Male
+				Female
+				
+			Human
+				Male 
+					army
+					grunt
+					farmer
+					normal
+					sassy
+					
+				Female
+					army
+					grunt
+					farmer
+					normal
+					sassy
+					
+            Enemy:
+				Corpses:
+					Cop
+					woman
+					man
+					scientist
+					
+				Heavy boss:
+					Grunt
+					Wanker
+					Tanker
+
+SOund:
+	weapon:
+		9mm Pistol 
+		Revolver
+		rifle m4
+		rifle AK
+		shotgun
+	CQB:
+		Slash
+		Stab
+		Blunt hit
+	zombie
+		bite
+		crunch
+		idle
+		crawling
+		running
+		walking
+	Environment
+		wind
+		atmosphere
+		bird noise
+		rain
+		Fire flicker
+		explosion
+		chatting
+
+Music:
+	EErie music
+	Dark themes
+	
+	
+
+Items:
+	Keys
+	-	key
+	- 	card
+	
+	
+	
+
+
+OPTIONAL:
+	Environment:
+		destroyable wall
+		destroyable fence
+		destroyable cars
+		intractable cars (Alarm, refill, light switch and glass panels)
+		
+	crafting:
+		upgrade weapon
+		crafting item
+		cooking
+
+	durability:
+		weapon malfunction
+		repairable
+		enhance		
+	hunger:
+		eat
+		starvation	
+	weight:
+		Slow down
+		fast movement
+	Open World:
+		
+	
+
