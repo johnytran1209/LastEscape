@@ -4,34 +4,15 @@ Apocalypse
 3d Models:
 
 		GUNS:
-			9mm Pistol 
-			Revolver
-			rifle m4
-			rifle AK
-			shotgun
+			
 		Ammo:
-			L Pistol Ammo
-			H Pistol Ammo
-			L Rifle Ammo
-			H Rifle Ammo
-			Shotgun Ammo
+			
 			
 		CQB weapons:
-			Knife
-			Machete
-			baseball bat
+			
 			
 		Utility:
-			S Medical kit
-			M Medical kit
-			L Medical kit
-			Repair kit
-			chain cutter
 			
-			Optional Cleaning kit 
-			Optional Rag
-			Optional gasoline
-			Optional Nails
 		
 		Food item Optional:
 			Optional MREs
