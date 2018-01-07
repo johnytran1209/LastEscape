@@ -15,44 +15,19 @@ Apocalypse
 			
 		
 		Food item Optional:
-			Optional MREs
-			Optional Meat
-			Optional Bread
+			
 		
 		Throwable diversion:
-			Bottle
-			Soft drink can
-			Brick
+			
 			
 		Building + Envi:
-			Building:
-				House blocks UK US style
-				warehouse
-				farm houses
-				ruined house
-				ruined block
+			
 				
 			Environment crops
-				road block
-				light poll
-				trash bin
-				Industrial Bin
-				Steal pillar
-				Concrete pipe
-				Wooden box
-				Movable
-				road cone
-				road fences
-				barrel
-				explosive barrel
-				military crates
+				
 			
 			vehicle:
-				car
-				Truck
-				4wd SUV
-				buses
-				ruined car
+				
 			
 		Humanoid:
 			player:
@@ -120,9 +95,6 @@ Music:
 	
 
 Items:
-	Keys
-	-	key
-	- 	card
 	
 	
 	
